@@ -16,7 +16,7 @@ Features:
 Connect with the community, get update infos or report issues on: https://discord.gg/DUax6SsEt2
 <br>
 Youtube Video: <br>
-[![Watch the video](https://img.youtube.com/vi/Edc4nzMxJ9c/3.jpg)]([https://youtu.be/Edc4nzMxJ9c](https://youtu.be/kReQVO-4TBI?si=5-HvKf4ijaIgnF9G))
+[![Watch the video](https://i.ibb.co/qrvQLjP/maxresdefault.jpg)](https://www.youtube.com/watch?v=kReQVO-4TBI)
 <br>
 ------------------<br>
 
