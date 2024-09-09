@@ -12,10 +12,12 @@ Features:
 - determine whether your teleporter should only be usable in one direction
 - translate the script directly in config.lua
 - set a distance at which teleporters are loaded (saves resources)
-
 <br>
 Connect with the community, get update infos or report issues on: https://discord.gg/DUax6SsEt2
-
+<br>
+Youtube Video: <br>
+[![Watch the video](https://img.youtube.com/vi/Edc4nzMxJ9c/3.jpg)]([https://youtu.be/Edc4nzMxJ9c](https://youtu.be/kReQVO-4TBI?si=5-HvKf4ijaIgnF9G))
+<br>
 ------------------<br>
 
 1) Add ``juSa_teleport`` to your resources folder
